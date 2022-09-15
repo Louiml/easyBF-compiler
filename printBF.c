@@ -3,8 +3,8 @@
 static const char * brainfuck;
 static const char * run;
 int main(void) {
-brainfuck = "main.bf";
-run = brainfuck;
-printf(run);
+brainfuck = brainfuck_compiler.file = "main.bf";
+run = brainfuck_compiler.run.%type;
+brainfuck(run);
 return 0;
 }
