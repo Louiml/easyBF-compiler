@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <get.h>
+#include <lml/brainfuck_compiler.bf>
 static const char * brainfuck;
 static const char * run;
 int main(void) {
