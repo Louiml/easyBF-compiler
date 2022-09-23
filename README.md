@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>easy compiler to brainf**k [3/5]</h1>
+  <h1>easy compiler to brainf**k [3/3]</h1>
     <h1></h1>
   <h4>i will create ide of brainf**k in 11/19/2022</h4>
   <h5>and a brainf**k blocks maker</h5>
